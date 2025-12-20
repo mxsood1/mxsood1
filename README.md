@@ -1,6 +1,3 @@
-[![masood's world](github.gif)](https://your-portfolio-link.com)
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=gray)
-
 # Hey there!
 ___
 ## I'm Masood

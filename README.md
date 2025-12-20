@@ -10,13 +10,16 @@ I enjoy building practical projects and learning how scalable systems work end-t
 ___
 
 ### Languages
-![badge](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=openjdk&logoColor=white)
 ![badge](https://img.shields.io/badge/Python-20232a?style=for-the-badge&logo=python&logoColor=white)
+![badge](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=openjdk&logoColor=white)
 ![badge](https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=white)
-![badge](https://img.shields.io/badge/TypeScript-20232a?style=for-the-badge&logo=typescript&logoColor=white)
 ![badge](https://img.shields.io/badge/HTML5-20232a?style=for-the-badge&logo=html5&logoColor=white)
 ![badge](https://img.shields.io/badge/CSS3-20232a?style=for-the-badge&logo=css3&logoColor=white)
 ![badge](https://img.shields.io/badge/SQL-20232a?style=for-the-badge&logo=postgresql&logoColor=white)
+![badge](https://img.shields.io/badge/C++-20232a?style=for-the-badge&logo=cplusplus&logoColor=white)
+![badge](https://img.shields.io/badge/C-20232a?style=for-the-badge&logo=c&logoColor=white)
+![badge](https://img.shields.io/badge/MATLAB-20232a?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 ### Frameworks / Tools
 ![badge](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white)
@@ -27,6 +30,8 @@ ___
 ![badge](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=docker&logoColor=white)
 ![badge](https://img.shields.io/badge/Linux-20232a?style=for-the-badge&logo=linux&logoColor=white)
 ![badge](https://img.shields.io/badge/VS_Code-20232a?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![badge](https://img.shields.io/badge/PyCharm-20232a?style=for-the-badge&logo=pycharm&logoColor=white)
+![badge](https://img.shields.io/badge/Eclipse-20232a?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ### Libraries & APIs
 ![badge](https://img.shields.io/badge/OpenAI_API-20232a?style=for-the-badge&logo=openai&logoColor=white)

@@ -6,7 +6,7 @@ ___
 ## I'm Masood
 
 A Computer Science student at `WLU`
-<img src="laurier.jpg" width="22" style="vertical-align: middle; margin-left: 6px;" />,
+<img src="laurier1.jpg" width="22" style="vertical-align: middle; margin-left: 6px;" />,
 passionate about coding and problem-solving, with interests in **AI/ML**, **cloud computing**, and **full-stack development**.  
 I enjoy building practical projects and learning how scalable systems work end-to-end.
 

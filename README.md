@@ -35,8 +35,12 @@ ___
 
 ### Libraries & APIs
 ![badge](https://img.shields.io/badge/OpenAI_API-20232a?style=for-the-badge&logo=openai&logoColor=white)
-![badge](https://img.shields.io/badge/Pandas-20232a?style=for-the-badge&logo=pandas&logoColor=white)
+![badge](https://img.shields.io/badge/DeepSeek_API-20232a?style=for-the-badge&logo=deepseek&logoColor=white)
+![badge](https://img.shields.io/badge/Google_Cloud_Functions-20232a?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![badge](https://img.shields.io/badge/Firebase-20232a?style=for-the-badge&logo=firebase&logoColor=white)
+![badge](https://img.shields.io/badge/SwiftUI-20232a?style=for-the-badge&logo=swift&logoColor=white)
+![badge](https://img.shields.io/badge/Pandas-20232a?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### Certifications
 ![badge](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-20232a?style=for-the-badge&logo=amazonaws&logoColor=white)

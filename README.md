@@ -33,6 +33,9 @@ ___
 ![badge](https://img.shields.io/badge/Pandas-20232a?style=for-the-badge&logo=pandas&logoColor=white)
 ![badge](https://img.shields.io/badge/Firebase-20232a?style=for-the-badge&logo=firebase&logoColor=white)
 
+### Certifications
+![badge](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-20232a?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ___
 
 &nbsp;<div align="center">

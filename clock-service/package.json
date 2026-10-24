@@ -1,6 +1,0 @@
-{
-  "name": "masood-toronto-clock",
-  "private": true,
-  "type": "module",
-  "engines": { "node": "24.x" }
-}

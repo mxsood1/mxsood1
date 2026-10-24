@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://time.is/Toronto"><samp>TORONTO / LOCAL TIME ↗</samp></a>
+  <img src="./assets/private-signal.svg" width="100%" alt="A faint animated ASCII signal.">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/private-orbit-still.png">
     <source media="(max-width: 600px)" srcset="./assets/private-orbit-mobile.gif">

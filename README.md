@@ -1,45 +1,27 @@
+<p align="center">
+  <img src="./assets/masood-corp-ascii.svg" width="100%" alt="Masood Corp. The original wordmark, built entirely from terminal characters.">
+</p>
 
+<p align="center">
+  <samp>making personal projects slowly turning myself into iron man</samp>
+</p>
 
-### Languages
-![badge](https://img.shields.io/badge/Python-20232a?style=for-the-badge&logo=python&logoColor=white)
-![badge](https://img.shields.io/badge/Java-20232a?style=for-the-badge&logo=openjdk&logoColor=white)
-![badge](https://img.shields.io/badge/JavaScript-20232a?style=for-the-badge&logo=javascript&logoColor=white)
-![badge](https://img.shields.io/badge/HTML5-20232a?style=for-the-badge&logo=html5&logoColor=white)
-![badge](https://img.shields.io/badge/CSS3-20232a?style=for-the-badge&logo=css3&logoColor=white)
-![badge](https://img.shields.io/badge/SQL-20232a?style=for-the-badge&logo=postgresql&logoColor=white)
-![badge](https://img.shields.io/badge/C++-20232a?style=for-the-badge&logo=cplusplus&logoColor=white)
-![badge](https://img.shields.io/badge/C-20232a?style=for-the-badge&logo=c&logoColor=white)
-![badge](https://img.shields.io/badge/MATLAB-20232a?style=for-the-badge&logo=mathworks&logoColor=white)
-
-
-### Frameworks / Tools
-![badge](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white)
-![badge](https://img.shields.io/badge/Node.js-20232a?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![badge](https://img.shields.io/badge/Express.js-20232a?style=for-the-badge&logo=express&logoColor=white)
-![badge](https://img.shields.io/badge/AWS-20232a?style=for-the-badge&logo=amazonaws&logoColor=white)
-![badge](https://img.shields.io/badge/Git-20232a?style=for-the-badge&logo=git&logoColor=white)
-![badge](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=docker&logoColor=white)
-![badge](https://img.shields.io/badge/Linux-20232a?style=for-the-badge&logo=linux&logoColor=white)
-![badge](https://img.shields.io/badge/VS_Code-20232a?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![badge](https://img.shields.io/badge/PyCharm-20232a?style=for-the-badge&logo=pycharm&logoColor=white)
-![badge](https://img.shields.io/badge/Eclipse-20232a?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-### Libraries & APIs
-![badge](https://img.shields.io/badge/OpenAI_API-20232a?style=for-the-badge&logo=openai&logoColor=white)
-![badge](https://img.shields.io/badge/DeepSeek_API-20232a?style=for-the-badge&logo=deepseek&logoColor=white)
-![badge](https://img.shields.io/badge/Google_Cloud_Functions-20232a?style=for-the-badge&logo=googlecloud&logoColor=white)
-![badge](https://img.shields.io/badge/Firebase-20232a?style=for-the-badge&logo=firebase&logoColor=white)
-![badge](https://img.shields.io/badge/SwiftUI-20232a?style=for-the-badge&logo=swift&logoColor=white)
-![badge](https://img.shields.io/badge/Pandas-20232a?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-### Certifications
-![badge](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-20232a?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-___
-
-&nbsp;<div align="center">
-
-</div>
-
----
+<p align="center">
+  <a href="https://time.is/Toronto"><samp>TORONTO / LOCAL TIME ↗</samp></a>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/private-orbit-still.png">
+    <source media="(max-width: 600px)" srcset="./assets/private-orbit-mobile.gif">
+    <img src="./assets/private-orbit.gif" width="100%" alt="Slowly rotating ASCII loops with small ASCII ChatGPT and BMW symbols floating around their orbit.">
+  </picture>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/masood-transition-still.png">
+    <source media="(max-width: 600px)" srcset="./assets/masood-transition-mobile.gif">
+    <img src="./assets/masood-transition.gif" width="100%" alt="The small spinning Masood Corp wordmark framed by faint flowing ASCII ribbons and drifting particles.">
+  </picture>
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/black-hole-mobile-still.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/black-hole-desktop-still.png">
+    <source media="(max-width: 600px)" srcset="./assets/black-hole-mobile.gif">
+    <img src="./assets/black-hole.gif" width="100%" alt="An animated ASCII black hole. A thin accretion disk flows faster toward its inner edge. Gravitational lensing reveals the far side above the dark shadow, and the approaching side appears brighter. Stylized emission follows curved light paths around a nonrotating black hole.">
+  </picture>
+</p>
